@@ -2,7 +2,7 @@
 
 // todo read command line arguments
 
-int main(void) {
+int main(int a, char ** v) {
   // SIcherheitslücke geschlossen
   return 0;
 }
